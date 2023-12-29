@@ -55,8 +55,8 @@ Supervisied Algorithms and Anomaly Detection
 ### Installation
 
 ```bash
-git clone git@git.tsinghua.edu.cn:wangh23/dsarad.git
-cd dsarad
+git clone git@github.com:Wangh277/DSARAD.git
+cd DSARAD
 # python=3.7  torch=1.8.0  torchvision=0.9.0 numpy=1.19.0 
 pip install -r requirements.txt
 ```
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ### Usage
 
 ```bash
-# cd dsarad/tools
+# cd DSARAD/tools
 #train
 sh train.sh 
 #test
