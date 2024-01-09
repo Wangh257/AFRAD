@@ -55,8 +55,8 @@ Supervisied Algorithms and Anomaly Detection
 ### Installation
 
 ```bash
-git clone git@github.com:Wangh257/DSARAD.git
-cd DSARAD
+git clone git@github.com:Wangh257/DSAR.git
+cd DSAR
 # python=3.7  torch=1.8.0  torchvision=0.9.0 numpy=1.19.0 
 pip install -r requirements.txt
 ```
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 ### Usage
 
 ```bash
-# cd DSARAD/tools
+# cd DSAR/tools
 #train
 sh train.sh 
 #test
@@ -81,6 +81,6 @@ img2_path
 
 ## Contact
 
-*   项目链接: <https://github.com/Wangh257/DSARAD>
+*   项目链接: <https://github.com/Wangh257/DSAR>
 *   你的联系邮箱: <wangh23@mails.tsinghua.edu.cn>
 
