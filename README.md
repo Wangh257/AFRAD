@@ -1,6 +1,6 @@
 DSARAD is a reconstruction-based algorithm for anomaly detection. It employs an encoder-decoder structure embedded with feature distillation and spatial attention for feature extraction. For feature classification, the algorithm utilizes a U-Net network. DSARAD demonstrates effective detection results for both structural and textural industrial defects.
 
-# DSARAD
+# DSAR
 
 ![Network Structure](images/DSARAD_structure.png)
 
