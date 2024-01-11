@@ -98,5 +98,5 @@ img2_path
 ## Contact
 
 *   项目链接: <https://github.com/Wangh257/DSAR>
-*   你的联系邮箱: <wangh23@mails.tsinghua.edu.cn>
+*   联系邮箱: <wangh23@mails.tsinghua.edu.cn>
 
