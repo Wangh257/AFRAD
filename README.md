@@ -55,10 +55,13 @@ Supervisied Algorithms and Anomaly Detection
 The last line is the result of our DSAR algorithm.
 ![Network Structure](images/det_visualization_tile.png)
 ## Ablation Study-Visualization
+
 ####MVTec 
 ![Network Structure](images/ablation_result_mvtec.png)
+
 ####Magnetic Tile
 ![Network Structure](images/ablation_result_tile.png)
+
 ## Getting Started
 
 ### Installation
