@@ -1,8 +1,8 @@
-DSARAD is a reconstruction-based algorithm for anomaly detection. It employs an encoder-decoder structure embedded with feature distillation and spatial attention for feature extraction. For feature classification, the algorithm utilizes a U-Net network. DSARAD demonstrates effective detection results for both structural and textural industrial defects.
+DSAR is a reconstruction-based algorithm for anomaly detection. It employs an encoder-decoder structure embedded with feature distillation and spatial attention for feature extraction. For feature classification, the algorithm utilizes a U-Net network. DSAR demonstrates effective detection results for both structural and textural industrial defects.
 
 # DSAR
 
-![Network Structure](images/DSARAD_structure.png)
+![Network Structure](images/DSAR_structure.png)
 
 ## Features
 
@@ -25,7 +25,7 @@ Supervisied Algorithms and Anomaly Detection
 
 ## Results
 
-### MVTecAD AUROC score ( mean of 4 trials)
+### Numerical Results---MVTecAD AUROC score ( mean of 4 trials)
 
 | **Category** | **Image Level AUROC** | **Pixel Level AUROC** |
 | :----------: | :-------------------: | :-------------------: |
@@ -46,14 +46,22 @@ Supervisied Algorithms and Anomaly Detection
 |  Toothbrush  |         100.0         |          96.1         |
 |     Mean     |        **99.1**       |        **96.8**       |
 
-### &#x20;Magnetic Tile Dataset AUROC score ( mean of 4 trials)
+### &#x20;Numerical Results---Magnetic Tile Dataset AUROC score ( mean of 4 trials)
 
 ![Network Structure](images/tile_result.png)
 
+## Results-Visualization
+####Magnetic Tile 
+The last line is the result of our DSAR algorithm.
+![Network Structure](images/det_visualization_tile.png)
+## Ablation Study-Visualization
+####MVTec 
+![Network Structure](images/ablation_result_mvtec.png)
+####Magnetic Tile
+![Network Structure](images/ablation_result_tile.png)
 ## Getting Started
 
 ### Installation
-
 ```bash
 git clone git@github.com:Wangh257/DSAR.git
 cd DSAR
