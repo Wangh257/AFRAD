@@ -59,11 +59,11 @@ The last line is the result of our DSAR algorithm.
 
 ## Ablation Study-Visualization
 
-### MVTec 
+#### MVTec 
 
 ![Network Structure](images/ablation_result_mvtec.png)
 
-### Magnetic Tile
+#### Magnetic Tile
 
 ![Network Structure](images/ablation_result_tile.png)
 
