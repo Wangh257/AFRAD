@@ -9,7 +9,7 @@ DSAR is a reconstruction-based algorithm for anomaly detection. It employs an en
 ### Dataset and Annotation Software
 
 <div style="text-align: justify; text-indent: 2em;">
-We have organized a magnetic tile industrial dataset, which includes five types of defects and normal samples. Click <a href="https://wangh257.github.io/AFRAD/data_Download.html">here</a>  to download the dataset.The types of defects and data distribution are shown.
+We have organized a magnetic tile industrial dataset, which includes five types of defects and normal samples. Click <a href="https://wangh257.github.io/AFRAD/data_download.html">here</a>  to download the dataset.The types of defects and data distribution are shown.
 </div>
 
 ![Network Structure](images/data_distribution.png)
