@@ -14,7 +14,9 @@ We have organized a magnetic tile industrial dataset, which includes five types 
 
 ![Network Structure](images/data_distribution.png)
 
-We have embedded the anomaly detection results into the annotation software LabelMe, enhancing the speed and accuracy of defect labeling. The annotation software can be downloaded by clicking <a href="https://wangh257.github.io/AFRAD/data_Download.html">here</a>.
+<div style="text-align: justify; text-indent: 2em;">
+We have embedded the anomaly detection results into the annotation software LabelMe, enhancing the speed and accuracy of defect labeling. The annotation software can be downloaded by clicking <a href="https://wangh257.github.io/AFRAD/data_download.html">here</a>.
+</div>
 
 ### Network
 
